@@ -9,3 +9,5 @@ git에 올려야 할 폴더에 가서 shift+우클릭하여  이름이 Powershel
 ----------------------------
 ## 2.깃 설치후 git bash 열기
 ![image](https://user-images.githubusercontent.com/129706762/235417894-3ae93a07-1c03-45c1-991b-2faaea5774f9.png)
+
+    $ git config --global user name "jaeyoung"
