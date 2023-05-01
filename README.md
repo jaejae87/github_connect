@@ -28,3 +28,8 @@ git config--list
  
  *추가할파일 (폴더 안의 내용을 모두 올림)
      git add .
+ *히스토리 만들기(-m은 메세지를 의미함 ""의 안에는 히스토리 이름을 적음)
+ git commit -m "first commit"
+ 
+ *github의 repository를 만들고 그 주소와 연결하기
+          git remote add origin https://github.com/jaejae87/css_flex.git
