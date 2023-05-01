@@ -14,3 +14,9 @@ git에 올려야 할 폴더에 가서 shift+우클릭하여  이름이 Powershel
     $ git config --global user.name "jaeyoung"
     
     $ git config --global user.email "jykkim01@naver.com"
+
+내 정보 확인하기
+git config--list
+
+##  ⬆️위의 연결은 해당 컴퓨터에서 한번에 실행하면 됨
+---------------------------------------------------
