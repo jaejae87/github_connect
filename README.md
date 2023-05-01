@@ -33,3 +33,8 @@ git config--list
  
  *github의 repository를 만들고 그 주소와 연결하기
           git remote add origin https://github.com/jaejae87/css_flex.git
+          
+  *연결이 잘 됬는지 확인하기
+    git remote -v
+*github에 올리기
+git push origin master
