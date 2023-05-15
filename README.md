@@ -76,4 +76,45 @@ git in 시작!!!
 #2.다시 push해야 한다.
 
     git push origin master
+    
+----------------------------------------------------------------------------------------------------------------------------------------
+    
+#깃허브 협업하는 방법
+
+#사원입장------------------------------------
+
+1. 소스코드 다운로드 
+
+새로운 폴더 만들고 그 폴더 비쥬얼스튜디오에 부르고
+
+
+
+git clone 주소
+
+git clone https://github.com/jaejae87/HANACARD.git   (안에 내용이 복사됨)
+
+2.브랜치 만들기  (수정된 내용이 있어야 됨)
+
+git init 
+
+git chsckout -b 브랜치이름
+
+git chsckout -b kim
+
+git add .
+
+git commit -m "하나카드"
+
+git push origin 브랜치이름
+git push origin kim
+
+![image](https://github.com/jaejae87/github_connect/assets/129706762/999ed50e-8fb1-4a0b-ad7a-0e29821d6eb8)
+
+
+![image](https://github.com/jaejae87/github_connect/assets/129706762/e213ce0b-43bb-4e8a-82f7-80c75121b37b)
+
+
+
+
+    
 
